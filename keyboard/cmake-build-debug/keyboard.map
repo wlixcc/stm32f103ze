@@ -1,0 +1,1030 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
+                              CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj (__errno)
+/usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (exit)
+/usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (__libc_init_array)
+/usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+                              /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o (memset)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crti.o
+ .data          0x0000000000000000        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x74 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DeInit
+                0x0000000000000000       0x30 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspInit
+                0x0000000000000000        0xc CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_MspDeInit
+                0x0000000000000000        0xc CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickPrio
+                0x0000000000000000       0x14 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SetTickFreq
+                0x0000000000000000       0x44 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetTickFreq
+                0x0000000000000000       0x14 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_SuspendTick
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_ResumeTick
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetHalVersion
+                0x0000000000000000       0x14 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetREVID
+                0x0000000000000000       0x18 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetDEVID
+                0x0000000000000000       0x18 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw0
+                0x0000000000000000       0x14 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw1
+                0x0000000000000000       0x14 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_GetUIDw2
+                0x0000000000000000       0x14 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGSleepMode
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGSleepMode
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStopMode
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStopMode
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_EnableDBGStandbyMode
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text.HAL_DBGMCU_DisableDBGStandbyMode
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_DisableIRQ
+                0x0000000000000000       0x44 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPendingIRQ
+                0x0000000000000000       0x40 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SetPendingIRQ
+                0x0000000000000000       0x3c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_ClearPendingIRQ
+                0x0000000000000000       0x3c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetActive
+                0x0000000000000000       0x40 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPriority
+                0x0000000000000000       0x4c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.NVIC_DecodePriority
+                0x0000000000000000       0x6c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SystemReset
+                0x0000000000000000       0x28 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_DisableIRQ
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SystemReset
+                0x0000000000000000        0x8 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriorityGrouping
+                0x0000000000000000        0xe CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPriority
+                0x0000000000000000       0x2c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPendingIRQ
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetPendingIRQ
+                0x0000000000000000       0x1e CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_ClearPendingIRQ
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_GetActive
+                0x0000000000000000       0x1e CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_CLKSourceConfig
+                0x0000000000000000       0x38 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_IRQHandler
+                0x0000000000000000        0xc CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_SYSTICK_Callback
+                0x0000000000000000        0xc CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Init
+                0x0000000000000000       0xec CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_DeInit
+                0x0000000000000000       0xf0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start
+                0x0000000000000000       0x84 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Start_IT
+                0x0000000000000000       0xbe CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort
+                0x0000000000000000       0x74 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_Abort_IT
+                0x0000000000000000      0x210 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_PollForTransfer
+                0x0000000000000000      0x77c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_IRQHandler
+                0x0000000000000000      0x478 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_RegisterCallback
+                0x0000000000000000       0x90 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_UnRegisterCallback
+                0x0000000000000000       0xac CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetState
+                0x0000000000000000       0x18 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.HAL_DMA_GetError
+                0x0000000000000000       0x16 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text.DMA_SetConfig
+                0x0000000000000000       0x5a CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_info    0x0000000000000000      0x807 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_abbrev  0x0000000000000000      0x225 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_aranges
+                0x0000000000000000       0x80 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_ranges  0x0000000000000000       0x70 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_line    0x0000000000000000      0xef0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_str     0x0000000000000000      0x754 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .comment       0x0000000000000000       0x76 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .debug_frame   0x0000000000000000      0x20c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_SetConfigLine
+                0x0000000000000000      0x14c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetConfigLine
+                0x0000000000000000      0x104 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearConfigLine
+                0x0000000000000000       0xc0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_RegisterCallback
+                0x0000000000000000       0x32 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetHandle
+                0x0000000000000000       0x26 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_IRQHandler
+                0x0000000000000000       0x48 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GetPending
+                0x0000000000000000       0x40 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_ClearPending
+                0x0000000000000000       0x30 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text.HAL_EXTI_GenerateSWI
+                0x0000000000000000       0x2c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_info    0x0000000000000000      0x618 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_abbrev  0x0000000000000000      0x1df CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_aranges
+                0x0000000000000000       0x60 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_ranges  0x0000000000000000       0x50 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_line    0x0000000000000000      0x5e2 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_str     0x0000000000000000      0x539 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .comment       0x0000000000000000       0x76 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .debug_frame   0x0000000000000000      0x174 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .bss.pFlash    0x0000000000000000       0x20 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program
+                0x0000000000000000       0xe0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Program_IT
+                0x0000000000000000       0x90 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_IRQHandler
+                0x0000000000000000      0x1cc CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_EndOfOperationCallback
+                0x0000000000000000       0x12 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OperationErrorCallback
+                0x0000000000000000       0x12 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Unlock
+                0x0000000000000000       0x4c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_Lock
+                0x0000000000000000       0x20 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Unlock
+                0x0000000000000000       0x38 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Lock
+                0x0000000000000000       0x20 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_OB_Launch
+                0x0000000000000000        0xc CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.HAL_FLASH_GetError
+                0x0000000000000000       0x14 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_Program_HalfWord
+                0x0000000000000000       0x38 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_WaitForLastOperation
+                0x0000000000000000       0x8c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text.FLASH_SetErrorCode
+                0x0000000000000000       0xa0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_info    0x0000000000000000      0x5dc CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_abbrev  0x0000000000000000      0x23b CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_aranges
+                0x0000000000000000       0x88 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_ranges  0x0000000000000000       0x78 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_line    0x0000000000000000      0x6a5 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_str     0x0000000000000000      0x64f CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .comment       0x0000000000000000       0x76 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .debug_frame   0x0000000000000000      0x214 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase
+                0x0000000000000000       0xd8 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_Erase_IT
+                0x0000000000000000       0x84 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBErase
+                0x0000000000000000       0x84 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBProgram
+                0x0000000000000000       0xf8 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetConfig
+                0x0000000000000000       0x38 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.HAL_FLASHEx_OBGetUserData
+                0x0000000000000000       0x40 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_MassErase
+                0x0000000000000000       0x38 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_EnableWRP
+                0x0000000000000000      0x144 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_DisableWRP
+                0x0000000000000000      0x140 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_RDP_LevelConfig
+                0x0000000000000000       0xa0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_UserConfig
+                0x0000000000000000       0x70 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_ProgramData
+                0x0000000000000000       0x68 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetWRP
+                0x0000000000000000       0x14 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetRDP
+                0x0000000000000000       0x38 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_OB_GetUser
+                0x0000000000000000       0x20 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text.FLASH_PageErase
+                0x0000000000000000       0x40 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_info    0x0000000000000000      0x88b CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x246 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x98 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_ranges  0x0000000000000000       0x88 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_line    0x0000000000000000      0x7a6 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_str     0x0000000000000000      0x77b CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .comment       0x0000000000000000       0x76 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .debug_frame   0x0000000000000000      0x258 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_DeInit
+                0x0000000000000000      0x198 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text.HAL_GPIO_LockPin
+                0x0000000000000000       0x4e CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_ConfigEventout
+                0x0000000000000000       0x2c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_EnableEventout
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text.HAL_GPIOEx_DisableEventout
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_info    0x0000000000000000      0x231 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x10f CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x30 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_ranges  0x0000000000000000       0x20 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_line    0x0000000000000000      0x31f CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_str     0x0000000000000000      0x3ba CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .comment       0x0000000000000000       0x76 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .debug_frame   0x0000000000000000       0x78 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.PWR_OverloadWfe
+                0x0000000000000000       0x10 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DeInit
+                0x0000000000000000       0x28 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableBkUpAccess
+                0x0000000000000000       0x18 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableBkUpAccess
+                0x0000000000000000       0x18 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_ConfigPVD
+                0x0000000000000000       0xbc CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnablePVD
+                0x0000000000000000       0x18 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisablePVD
+                0x0000000000000000       0x18 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableWakeUpPin
+                0x0000000000000000       0x38 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableWakeUpPin
+                0x0000000000000000       0x38 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSLEEPMode
+                0x0000000000000000       0x38 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTOPMode
+                0x0000000000000000       0x64 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnterSTANDBYMode
+                0x0000000000000000       0x30 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSleepOnExit
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSleepOnExit
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_EnableSEVOnPend
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_DisableSEVOnPend
+                0x0000000000000000       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVD_IRQHandler
+                0x0000000000000000       0x24 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text.HAL_PWR_PVDCallback
+                0x0000000000000000        0xc CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_info    0x0000000000000000      0x72d CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_abbrev  0x0000000000000000      0x219 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_aranges
+                0x0000000000000000       0xa8 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_ranges  0x0000000000000000       0x98 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_line    0x0000000000000000      0x540 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_str     0x0000000000000000      0x5ec CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .comment       0x0000000000000000       0x76 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .debug_frame   0x0000000000000000      0x270 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DeInit
+                0x0000000000000000      0x134 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_MCOConfig
+                0x0000000000000000       0x70 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_EnableCSS
+                0x0000000000000000       0x18 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_DisableCSS
+                0x0000000000000000       0x18 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetHCLKFreq
+                0x0000000000000000       0x14 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK1Freq
+                0x0000000000000000       0x28 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetPCLK2Freq
+                0x0000000000000000       0x28 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetOscConfig
+                0x0000000000000000      0x104 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_GetClockConfig
+                0x0000000000000000       0x60 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_NMI_IRQHandler
+                0x0000000000000000       0x28 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_RCC_CSSCallback
+                0x0000000000000000        0xc CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_PeriphCLKConfig
+                0x0000000000000000      0x16c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKConfig
+                0x0000000000000000       0x84 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .rodata        0x0000000000000000       0x12 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text.HAL_RCCEx_GetPeriphCLKFreq
+                0x0000000000000000      0x1d0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_info    0x0000000000000000      0x485 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_abbrev  0x0000000000000000      0x190 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x30 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_ranges  0x0000000000000000       0x20 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_line    0x0000000000000000      0x525 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_str     0x0000000000000000      0x529 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .comment       0x0000000000000000       0x76 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .debug_frame   0x0000000000000000       0x84 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_info    0x0000000000000000      0x15c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_abbrev  0x0000000000000000       0x97 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_line    0x0000000000000000      0x247 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .debug_str     0x0000000000000000      0x31a CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .comment       0x0000000000000000       0x76 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x33 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_info    0x0000000000000000      0x15c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_abbrev  0x0000000000000000       0x97 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_aranges
+                0x0000000000000000       0x18 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_line    0x0000000000000000      0x247 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .debug_str     0x0000000000000000      0x31d CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .comment       0x0000000000000000       0x76 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x33 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .bss.__env     0x0000000000000000        0x4 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .data.environ  0x0000000000000000        0x4 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text.initialise_monitor_handles
+                0x0000000000000000        0xc CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._getpid  0x0000000000000000        0xe CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._kill    0x0000000000000000       0x20 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._exit    0x0000000000000000       0x14 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._read    0x0000000000000000       0x3a CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._write   0x0000000000000000       0x38 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .bss.heap_end.6068
+                0x0000000000000000        0x4 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._sbrk    0x0000000000000000       0x58 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._close   0x0000000000000000       0x16 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._fstat   0x0000000000000000       0x1e CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._isatty  0x0000000000000000       0x14 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._lseek   0x0000000000000000       0x18 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._open    0x0000000000000000       0x1a CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._wait    0x0000000000000000       0x1e CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._unlink  0x0000000000000000       0x1e CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._times   0x0000000000000000       0x16 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._stat    0x0000000000000000       0x1e CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._link    0x0000000000000000       0x20 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._fork    0x0000000000000000       0x16 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text._execve  0x0000000000000000       0x22 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .debug_info    0x0000000000000000     0x100f CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .debug_abbrev  0x0000000000000000      0x2a9 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .debug_aranges
+                0x0000000000000000       0xb0 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .debug_ranges  0x0000000000000000       0xa0 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .debug_line    0x0000000000000000      0x4b8 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .debug_str     0x0000000000000000      0x8c9 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .comment       0x0000000000000000       0x76 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .debug_frame   0x0000000000000000      0x2d0 CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .ARM.attributes
+                0x0000000000000000       0x2d CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+ .text          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+ .rodata.APBPrescTable
+                0x0000000000000000        0x8 CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+ .text.SystemCoreClockUpdate
+                0x0000000000000000       0xdc CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+ .text          0x0000000000000000       0x14 CMakeFiles/keyboard.elf.dir/startup/startup_stm32f103xe.s.obj
+ .data          0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/startup/startup_stm32f103xe.s.obj
+ .bss           0x0000000000000000        0x0 CMakeFiles/keyboard.elf.dir/startup/startup_stm32f103xe.s.obj
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
+ .text.__errno  0x0000000000000000        0xc /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
+ .debug_frame   0x0000000000000000       0x20 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .text.exit     0x0000000000000000       0x28 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x0000000000000000        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .data.impure_data
+                0x0000000000000000       0x60 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x0000000000000000        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x0000000020000000 0x0000000000010000 xrw
+FLASH            0x0000000008000000 0x0000000000080000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crti.o
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/crt0.o
+LOAD CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_exti.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_flash_ex.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_pwr.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc_ex.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Src/syscalls.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+LOAD CMakeFiles/keyboard.elf.dir/startup/startup_stm32f103xe.s.obj
+START GROUP
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a
+END GROUP
+START GROUP
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libc_nano.a
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libnosys.a
+END GROUP
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtend.o
+LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtn.o
+                0x0000000020010000                _estack = 0x20010000
+                0x0000000000000200                _Min_Heap_Size = 0x200
+                0x0000000000000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x0000000008000000      0x1e4
+                0x0000000008000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x0000000008000000      0x1e4 CMakeFiles/keyboard.elf.dir/startup/startup_stm32f103xe.s.obj
+                0x0000000008000000                g_pfnVectors
+                0x00000000080001e4                . = ALIGN (0x4)
+
+.text           0x00000000080001e4     0x1364
+                0x00000000080001e4                . = ALIGN (0x4)
+ *(.text)
+ .text          0x00000000080001e4       0x40 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.text*)
+ .text.HAL_Init
+                0x0000000008000224       0x2c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000008000224                HAL_Init
+ .text.HAL_InitTick
+                0x0000000008000250       0x60 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000008000250                HAL_InitTick
+ .text.HAL_IncTick
+                0x00000000080002b0       0x24 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000000080002b0                HAL_IncTick
+ .text.HAL_GetTick
+                0x00000000080002d4       0x14 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000000080002d4                HAL_GetTick
+ .text.HAL_Delay
+                0x00000000080002e8       0x44 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000000080002e8                HAL_Delay
+ .text.__NVIC_SetPriorityGrouping
+                0x000000000800032c       0x48 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_GetPriorityGrouping
+                0x0000000008000374       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_EnableIRQ
+                0x0000000008000390       0x38 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.__NVIC_SetPriority
+                0x00000000080003c8       0x54 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.NVIC_EncodePriority
+                0x000000000800041c       0x64 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.SysTick_Config
+                0x0000000008000480       0x44 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .text.HAL_NVIC_SetPriorityGrouping
+                0x00000000080004c4       0x16 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x00000000080004c4                HAL_NVIC_SetPriorityGrouping
+ .text.HAL_NVIC_SetPriority
+                0x00000000080004da       0x38 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x00000000080004da                HAL_NVIC_SetPriority
+ .text.HAL_NVIC_EnableIRQ
+                0x0000000008000512       0x1c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008000512                HAL_NVIC_EnableIRQ
+ .text.HAL_SYSTICK_Config
+                0x000000000800052e       0x18 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x000000000800052e                HAL_SYSTICK_Config
+ *fill*         0x0000000008000546        0x2 
+ .text.HAL_GPIO_Init
+                0x0000000008000548      0x2d4 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000008000548                HAL_GPIO_Init
+ .text.HAL_GPIO_ReadPin
+                0x000000000800081c       0x2e CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x000000000800081c                HAL_GPIO_ReadPin
+ .text.HAL_GPIO_WritePin
+                0x000000000800084a       0x30 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x000000000800084a                HAL_GPIO_WritePin
+ .text.HAL_GPIO_TogglePin
+                0x000000000800087a       0x30 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x000000000800087a                HAL_GPIO_TogglePin
+ *fill*         0x00000000080008aa        0x2 
+ .text.HAL_GPIO_EXTI_IRQHandler
+                0x00000000080008ac       0x30 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x00000000080008ac                HAL_GPIO_EXTI_IRQHandler
+ .text.HAL_GPIO_EXTI_Callback
+                0x00000000080008dc       0x14 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x00000000080008dc                HAL_GPIO_EXTI_Callback
+ .text.HAL_RCC_OscConfig
+                0x00000000080008f0      0x500 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x00000000080008f0                HAL_RCC_OscConfig
+ .text.HAL_RCC_ClockConfig
+                0x0000000008000df0      0x1d4 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008000df0                HAL_RCC_ClockConfig
+ .text.HAL_RCC_GetSysClockFreq
+                0x0000000008000fc4       0xc4 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008000fc4                HAL_RCC_GetSysClockFreq
+ .text.RCC_Delay
+                0x0000000008001088       0x3c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.main     0x00000000080010c4       0x12 CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+                0x00000000080010c4                main
+ .text.SystemClock_Config
+                0x00000000080010d6       0x8a CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+                0x00000000080010d6                SystemClock_Config
+ .text.MX_GPIO_Init
+                0x0000000008001160      0x138 CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+ .text.Error_Handler
+                0x0000000008001298        0xc CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+                0x0000000008001298                Error_Handler
+ .text.HAL_MspInit
+                0x00000000080012a4       0x64 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+                0x00000000080012a4                HAL_MspInit
+ .text.NMI_Handler
+                0x0000000008001308        0xc CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000008001308                NMI_Handler
+ .text.HardFault_Handler
+                0x0000000008001314        0x6 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000008001314                HardFault_Handler
+ .text.MemManage_Handler
+                0x000000000800131a        0x6 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+                0x000000000800131a                MemManage_Handler
+ .text.BusFault_Handler
+                0x0000000008001320        0x6 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000008001320                BusFault_Handler
+ .text.UsageFault_Handler
+                0x0000000008001326        0x6 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000008001326                UsageFault_Handler
+ .text.SVC_Handler
+                0x000000000800132c        0xc CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+                0x000000000800132c                SVC_Handler
+ .text.DebugMon_Handler
+                0x0000000008001338        0xc CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000008001338                DebugMon_Handler
+ .text.PendSV_Handler
+                0x0000000008001344        0xc CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000008001344                PendSV_Handler
+ .text.SysTick_Handler
+                0x0000000008001350        0xc CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000008001350                SysTick_Handler
+ .text.EXTI0_IRQHandler
+                0x000000000800135c       0x44 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+                0x000000000800135c                EXTI0_IRQHandler
+ .text.EXTI3_IRQHandler
+                0x00000000080013a0       0x40 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+                0x00000000080013a0                EXTI3_IRQHandler
+ .text.EXTI4_IRQHandler
+                0x00000000080013e0       0x44 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+                0x00000000080013e0                EXTI4_IRQHandler
+ .text.SystemInit
+                0x0000000008001424       0x68 CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+                0x0000000008001424                SystemInit
+ .text.Reset_Handler
+                0x000000000800148c       0x48 CMakeFiles/keyboard.elf.dir/startup/startup_stm32f103xe.s.obj
+                0x000000000800148c                Reset_Handler
+ .text.Default_Handler
+                0x00000000080014d4        0x2 CMakeFiles/keyboard.elf.dir/startup/startup_stm32f103xe.s.obj
+                0x00000000080014d4                DMA2_Channel3_IRQHandler
+                0x00000000080014d4                EXTI2_IRQHandler
+                0x00000000080014d4                TIM8_TRG_COM_IRQHandler
+                0x00000000080014d4                TIM8_CC_IRQHandler
+                0x00000000080014d4                TIM1_CC_IRQHandler
+                0x00000000080014d4                TIM6_IRQHandler
+                0x00000000080014d4                PVD_IRQHandler
+                0x00000000080014d4                SDIO_IRQHandler
+                0x00000000080014d4                I2C2_EV_IRQHandler
+                0x00000000080014d4                ADC1_2_IRQHandler
+                0x00000000080014d4                SPI1_IRQHandler
+                0x00000000080014d4                TAMPER_IRQHandler
+                0x00000000080014d4                TIM8_UP_IRQHandler
+                0x00000000080014d4                DMA2_Channel2_IRQHandler
+                0x00000000080014d4                DMA1_Channel4_IRQHandler
+                0x00000000080014d4                USART3_IRQHandler
+                0x00000000080014d4                RTC_IRQHandler
+                0x00000000080014d4                DMA1_Channel7_IRQHandler
+                0x00000000080014d4                CAN1_RX1_IRQHandler
+                0x00000000080014d4                UART5_IRQHandler
+                0x00000000080014d4                ADC3_IRQHandler
+                0x00000000080014d4                TIM4_IRQHandler
+                0x00000000080014d4                DMA2_Channel1_IRQHandler
+                0x00000000080014d4                I2C1_EV_IRQHandler
+                0x00000000080014d4                DMA1_Channel6_IRQHandler
+                0x00000000080014d4                UART4_IRQHandler
+                0x00000000080014d4                TIM3_IRQHandler
+                0x00000000080014d4                RCC_IRQHandler
+                0x00000000080014d4                TIM1_TRG_COM_IRQHandler
+                0x00000000080014d4                DMA1_Channel1_IRQHandler
+                0x00000000080014d4                Default_Handler
+                0x00000000080014d4                EXTI15_10_IRQHandler
+                0x00000000080014d4                TIM7_IRQHandler
+                0x00000000080014d4                TIM5_IRQHandler
+                0x00000000080014d4                EXTI9_5_IRQHandler
+                0x00000000080014d4                SPI2_IRQHandler
+                0x00000000080014d4                DMA1_Channel5_IRQHandler
+                0x00000000080014d4                USB_LP_CAN1_RX0_IRQHandler
+                0x00000000080014d4                USB_HP_CAN1_TX_IRQHandler
+                0x00000000080014d4                DMA1_Channel3_IRQHandler
+                0x00000000080014d4                FSMC_IRQHandler
+                0x00000000080014d4                TIM1_UP_IRQHandler
+                0x00000000080014d4                WWDG_IRQHandler
+                0x00000000080014d4                TIM2_IRQHandler
+                0x00000000080014d4                TIM1_BRK_IRQHandler
+                0x00000000080014d4                EXTI1_IRQHandler
+                0x00000000080014d4                DMA2_Channel4_5_IRQHandler
+                0x00000000080014d4                USART2_IRQHandler
+                0x00000000080014d4                I2C2_ER_IRQHandler
+                0x00000000080014d4                DMA1_Channel2_IRQHandler
+                0x00000000080014d4                TIM8_BRK_IRQHandler
+                0x00000000080014d4                CAN1_SCE_IRQHandler
+                0x00000000080014d4                FLASH_IRQHandler
+                0x00000000080014d4                USART1_IRQHandler
+                0x00000000080014d4                SPI3_IRQHandler
+                0x00000000080014d4                I2C1_ER_IRQHandler
+                0x00000000080014d4                USBWakeUp_IRQHandler
+                0x00000000080014d4                RTC_Alarm_IRQHandler
+ *fill*         0x00000000080014d6        0x2 
+ .text.__libc_init_array
+                0x00000000080014d8       0x48 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+                0x00000000080014d8                __libc_init_array
+ .text.memset   0x0000000008001520       0x10 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+                0x0000000008001520                memset
+ *(.glue_7)
+ .glue_7        0x0000000008001530        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x0000000008001530        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x0000000008001530        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.init)
+ .init          0x0000000008001530        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crti.o
+                0x0000000008001530                _init
+ .init          0x0000000008001534        0x8 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtn.o
+ *(.fini)
+ .fini          0x000000000800153c        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crti.o
+                0x000000000800153c                _fini
+ .fini          0x0000000008001540        0x8 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtn.o
+                0x0000000008001548                . = ALIGN (0x4)
+                0x0000000008001548                _etext = .
+
+.vfp11_veneer   0x0000000008001548        0x0
+ .vfp11_veneer  0x0000000008001548        0x0 linker stubs
+
+.v4_bx          0x0000000008001548        0x0
+ .v4_bx         0x0000000008001548        0x0 linker stubs
+
+.iplt           0x0000000008001548        0x0
+ .iplt          0x0000000008001548        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.rodata         0x0000000008001548       0x24
+                0x0000000008001548                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x0000000008001548       0x12 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ *(.rodata*)
+ *fill*         0x000000000800155a        0x2 
+ .rodata.AHBPrescTable
+                0x000000000800155c       0x10 CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+                0x000000000800155c                AHBPrescTable
+                0x000000000800156c                . = ALIGN (0x4)
+
+.rel.dyn        0x000000000800156c        0x0
+ .rel.iplt      0x000000000800156c        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x000000000800156c        0x0
+                0x000000000800156c                __exidx_start = .
+ *(.ARM.exidx*)
+                0x000000000800156c                __exidx_end = .
+
+.preinit_array  0x000000000800156c        0x0
+                0x000000000800156c                PROVIDE (__preinit_array_start = .)
+ *(.preinit_array*)
+                0x000000000800156c                PROVIDE (__preinit_array_end = .)
+
+.init_array     0x000000000800156c        0x4
+                0x000000000800156c                PROVIDE (__init_array_start = .)
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array*)
+ .init_array    0x000000000800156c        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x0000000008001570                PROVIDE (__init_array_end = .)
+
+.fini_array     0x0000000008001570        0x4
+                [!provide]                        PROVIDE (__fini_array_start = .)
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x0000000008001570        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+                [!provide]                        PROVIDE (__fini_array_end = .)
+                0x0000000008001574                _sidata = LOADADDR (.data)
+
+.data           0x0000000020000000        0xc load address 0x0000000008001574
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.uwTickPrio
+                0x0000000020000000        0x4 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000020000000                uwTickPrio
+ .data.uwTickFreq
+                0x0000000020000004        0x1 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000020000004                uwTickFreq
+ *fill*         0x0000000020000005        0x3 
+ .data.SystemCoreClock
+                0x0000000020000008        0x4 CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+                0x0000000020000008                SystemCoreClock
+                0x000000002000000c                . = ALIGN (0x4)
+                0x000000002000000c                _edata = .
+
+.igot.plt       0x000000002000000c        0x0 load address 0x0000000008001580
+ .igot.plt      0x000000002000000c        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x000000002000000c                . = ALIGN (0x4)
+
+.bss            0x000000002000000c       0x20 load address 0x0000000008001580
+                0x000000002000000c                _sbss = .
+                0x000000002000000c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x000000002000000c       0x1c /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+ *(.bss*)
+ .bss.uwTick    0x0000000020000028        0x4 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000020000028                uwTick
+ *(COMMON)
+                0x000000002000002c                . = ALIGN (0x4)
+                0x000000002000002c                _ebss = .
+                0x000000002000002c                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x000000002000002c      0x604 load address 0x0000000008001580
+                0x0000000020000030                . = ALIGN (0x8)
+ *fill*         0x000000002000002c        0x4 
+                0x0000000020000030                PROVIDE (end = .)
+                [!provide]                        PROVIDE (_end = .)
+                0x0000000020000230                . = (. + _Min_Heap_Size)
+ *fill*         0x0000000020000030      0x200 
+                0x0000000020000630                . = (. + _Min_Stack_Size)
+ *fill*         0x0000000020000230      0x400 
+                0x0000000020000630                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x0000000000000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000000000       0x1d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001d       0x2d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x000000000000004a       0x2d CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .ARM.attributes
+                0x0000000000000077       0x2d CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .ARM.attributes
+                0x00000000000000a4       0x2d CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .ARM.attributes
+                0x00000000000000d1       0x2d CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .ARM.attributes
+                0x00000000000000fe       0x2d CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+ .ARM.attributes
+                0x000000000000012b       0x2d CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .ARM.attributes
+                0x0000000000000158       0x2d CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+ .ARM.attributes
+                0x0000000000000185       0x2d CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+ .ARM.attributes
+                0x00000000000001b2       0x21 CMakeFiles/keyboard.elf.dir/startup/startup_stm32f103xe.s.obj
+ .ARM.attributes
+                0x00000000000001d3       0x2d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000200       0x2d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000022d       0x1d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtn.o
+OUTPUT(keyboard.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x34ad
+ .debug_info    0x0000000000000000      0x7ad CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_info    0x00000000000007ad      0xc2b CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_info    0x00000000000013d8      0x6da CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_info    0x0000000000001ab2      0x877 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_info    0x0000000000002329      0x6c2 CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+ .debug_info    0x00000000000029eb      0x2e5 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x0000000000002cd0      0x359 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_info    0x0000000000003029      0x462 CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_info    0x000000000000348b       0x22 CMakeFiles/keyboard.elf.dir/startup/startup_stm32f103xe.s.obj
+
+.debug_abbrev   0x0000000000000000      0xe8e
+ .debug_abbrev  0x0000000000000000      0x1fd CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_abbrev  0x00000000000001fd      0x310 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_abbrev  0x000000000000050d      0x1e5 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_abbrev  0x00000000000006f2      0x270 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_abbrev  0x0000000000000962      0x1a6 CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+ .debug_abbrev  0x0000000000000b08      0x11a CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x0000000000000c22      0x10f CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x0000000000000d31      0x14b CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x0000000000000e7c       0x12 CMakeFiles/keyboard.elf.dir/startup/startup_stm32f103xe.s.obj
+
+.debug_aranges  0x0000000000000000      0x3e8
+ .debug_aranges
+                0x0000000000000000       0xe0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_aranges
+                0x00000000000000e0      0x100 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_aranges
+                0x00000000000001e0       0x58 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_aranges
+                0x0000000000000238       0x90 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_aranges
+                0x00000000000002c8       0x38 CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+ .debug_aranges
+                0x0000000000000300       0x20 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_aranges
+                0x0000000000000320       0x78 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_aranges
+                0x0000000000000398       0x28 CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_aranges
+                0x00000000000003c0       0x28 CMakeFiles/keyboard.elf.dir/startup/startup_stm32f103xe.s.obj
+
+.debug_ranges   0x0000000000000000      0x360
+ .debug_ranges  0x0000000000000000       0xd0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_ranges  0x00000000000000d0       0xf0 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_ranges  0x00000000000001c0       0x48 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_ranges  0x0000000000000208       0x80 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_ranges  0x0000000000000288       0x28 CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+ .debug_ranges  0x00000000000002b0       0x10 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_ranges  0x00000000000002c0       0x68 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_ranges  0x0000000000000328       0x18 CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_ranges  0x0000000000000340       0x20 CMakeFiles/keyboard.elf.dir/startup/startup_stm32f103xe.s.obj
+
+.debug_line     0x0000000000000000     0x2cb2
+ .debug_line    0x0000000000000000      0x59a CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_line    0x000000000000059a      0x774 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_line    0x0000000000000d0e      0x69b CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_line    0x00000000000013a9      0xa06 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_line    0x0000000000001daf      0x3dc CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+ .debug_line    0x000000000000218b      0x2d0 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x000000000000245b      0x417 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_line    0x0000000000002872      0x383 CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_line    0x0000000000002bf5       0xbd CMakeFiles/keyboard.elf.dir/startup/startup_stm32f103xe.s.obj
+
+.debug_str      0x0000000000000000     0x15f0
+ .debug_str     0x0000000000000000      0x92b CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                                        0x98f (size before relaxing)
+ .debug_str     0x000000000000092b      0x44a CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                                        0xaf6 (size before relaxing)
+ .debug_str     0x0000000000000d75      0x20f CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                                        0x563 (size before relaxing)
+ .debug_str     0x0000000000000f84      0x36a CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                                        0x71e (size before relaxing)
+ .debug_str     0x00000000000012ee       0x91 CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+                                        0x8d0 (size before relaxing)
+ .debug_str     0x000000000000137f       0x5b CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+                                        0x37d (size before relaxing)
+ .debug_str     0x00000000000013da      0x119 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+                                        0x41f (size before relaxing)
+ .debug_str     0x00000000000014f3       0x8d CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+                                        0x3d2 (size before relaxing)
+ .debug_str     0x0000000000001580       0x70 CMakeFiles/keyboard.elf.dir/startup/startup_stm32f103xe.s.obj
+                                         0xc5 (size before relaxing)
+
+.comment        0x0000000000000000       0x75
+ .comment       0x0000000000000000       0x75 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                                         0x76 (size before relaxing)
+ .comment       0x0000000000000075       0x76 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .comment       0x0000000000000075       0x76 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .comment       0x0000000000000075       0x76 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .comment       0x0000000000000075       0x76 CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+ .comment       0x0000000000000075       0x76 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .comment       0x0000000000000075       0x76 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+ .comment       0x0000000000000075       0x76 CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+
+.debug_frame    0x0000000000000000      0xd94
+ .debug_frame   0x0000000000000000      0x334 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+ .debug_frame   0x0000000000000334      0x428 CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+ .debug_frame   0x000000000000075c      0x14c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+ .debug_frame   0x00000000000008a8      0x21c CMakeFiles/keyboard.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .debug_frame   0x0000000000000ac4       0x94 CMakeFiles/keyboard.elf.dir/Src/main.c.obj
+ .debug_frame   0x0000000000000b58       0x38 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x0000000000000b90      0x160 CMakeFiles/keyboard.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x0000000000000cf0       0x58 CMakeFiles/keyboard.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x0000000000000d48       0x2c /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000d74       0x20 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)

@@ -12,30 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ef47459-0856-4516-8051-ad0439243d2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../beep/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../beep/.idea/beep.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../beep/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../beep/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../beep/.idea/serialmonitor_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../beep/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../beep/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../beep/CMakeLists_template.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../beep/beep.ioc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/serialmonitor_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Src/main.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/led.elf.dir/ASM.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/led.elf.dir/ASM.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/led.elf.dir/C.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/led.elf.dir/C.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/led.elf.dir/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/led.elf.dir/Src/main.c.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/led.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/led.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/led.elf" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/led.elf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/led.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/led.hex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/led.map" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/led.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../screenshot/led.heic" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1575521245614</updated>
       <workItem from="1575521256248" duration="6563000" />
-      <workItem from="1575617870284" duration="607000" />
+      <workItem from="1575617870284" duration="954000" />
+      <workItem from="1575860891862" duration="9000" />
     </task>
     <servers />
   </component>
@@ -113,32 +92,36 @@
       <screen x="0" y="23" width="1680" height="960" />
     </state>
     <state x="304" y="162" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.960@0.23.1680.960" timestamp="1575525426851" />
-    <state width="679" height="241" key="GridCell.Tab.0.bottom" timestamp="1575618470312">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state width="679" height="241" key="GridCell.Tab.0.bottom" timestamp="1575619151407">
+      <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state width="679" height="300" key="GridCell.Tab.0.bottom/0.23.1680.952@0.23.1680.952" timestamp="1575617797010" />
     <state width="679" height="241" key="GridCell.Tab.0.bottom/0.23.1680.956@0.23.1680.956" timestamp="1575618470312" />
+    <state width="679" height="241" key="GridCell.Tab.0.bottom/0.23.1680.958@0.23.1680.958" timestamp="1575619151407" />
     <state width="679" height="242" key="GridCell.Tab.0.bottom/0.23.1680.960@0.23.1680.960" timestamp="1575527242411" />
     <state width="679" height="300" key="GridCell.Tab.0.bottom/0.23.1680.961@0.23.1680.961" timestamp="1575527591295" />
-    <state width="679" height="241" key="GridCell.Tab.0.center" timestamp="1575618470311">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state width="679" height="241" key="GridCell.Tab.0.center" timestamp="1575619151406">
+      <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state width="679" height="300" key="GridCell.Tab.0.center/0.23.1680.952@0.23.1680.952" timestamp="1575617797010" />
     <state width="679" height="241" key="GridCell.Tab.0.center/0.23.1680.956@0.23.1680.956" timestamp="1575618470311" />
+    <state width="679" height="241" key="GridCell.Tab.0.center/0.23.1680.958@0.23.1680.958" timestamp="1575619151406" />
     <state width="679" height="242" key="GridCell.Tab.0.center/0.23.1680.960@0.23.1680.960" timestamp="1575527242410" />
     <state width="679" height="300" key="GridCell.Tab.0.center/0.23.1680.961@0.23.1680.961" timestamp="1575527591294" />
-    <state width="679" height="241" key="GridCell.Tab.0.left" timestamp="1575618470311">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state width="679" height="241" key="GridCell.Tab.0.left" timestamp="1575619151406">
+      <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state width="679" height="300" key="GridCell.Tab.0.left/0.23.1680.952@0.23.1680.952" timestamp="1575617797009" />
     <state width="679" height="241" key="GridCell.Tab.0.left/0.23.1680.956@0.23.1680.956" timestamp="1575618470311" />
+    <state width="679" height="241" key="GridCell.Tab.0.left/0.23.1680.958@0.23.1680.958" timestamp="1575619151406" />
     <state width="679" height="242" key="GridCell.Tab.0.left/0.23.1680.960@0.23.1680.960" timestamp="1575527242410" />
     <state width="679" height="300" key="GridCell.Tab.0.left/0.23.1680.961@0.23.1680.961" timestamp="1575527591294" />
-    <state width="679" height="241" key="GridCell.Tab.0.right" timestamp="1575618470311">
-      <screen x="0" y="23" width="1680" height="956" />
+    <state width="679" height="241" key="GridCell.Tab.0.right" timestamp="1575619151406">
+      <screen x="0" y="23" width="1680" height="958" />
     </state>
     <state width="679" height="300" key="GridCell.Tab.0.right/0.23.1680.952@0.23.1680.952" timestamp="1575617797010" />
     <state width="679" height="241" key="GridCell.Tab.0.right/0.23.1680.956@0.23.1680.956" timestamp="1575618470311" />
+    <state width="679" height="241" key="GridCell.Tab.0.right/0.23.1680.958@0.23.1680.958" timestamp="1575619151406" />
     <state width="679" height="242" key="GridCell.Tab.0.right/0.23.1680.960@0.23.1680.960" timestamp="1575527242411" />
     <state width="679" height="300" key="GridCell.Tab.0.right/0.23.1680.961@0.23.1680.961" timestamp="1575527591295" />
     <state width="679" height="300" key="GridCell.Tab.1.bottom" timestamp="1575617797011">
@@ -194,9 +177,10 @@
     </state>
     <state x="341" y="139" key="SettingsEditor/0.23.1680.960@0.23.1680.960" timestamp="1575525361460" />
     <state x="341" y="139" key="SettingsEditor/0.23.1680.961@0.23.1680.961" timestamp="1575527570803" />
-    <state x="517" y="332" key="com.intellij.ide.util.TipDialog" timestamp="1575521256611">
-      <screen x="0" y="23" width="1680" height="954" />
+    <state x="517" y="331" key="com.intellij.ide.util.TipDialog" timestamp="1575860897111">
+      <screen x="0" y="23" width="1680" height="952" />
     </state>
+    <state x="517" y="331" key="com.intellij.ide.util.TipDialog/0.23.1680.952@0.23.1680.952" timestamp="1575860897111" />
     <state x="517" y="332" key="com.intellij.ide.util.TipDialog/0.23.1680.954@0.23.1680.954" timestamp="1575521256611" />
   </component>
 </project>

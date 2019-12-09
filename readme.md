@@ -21,9 +21,17 @@
 1. 蜂鸣器对应`PB8`口,默认设置成低电平输出
 
 
+## 3.键盘&外部中断
+> 实现3个按键分别控制蜂鸣器、LED0、LED1的状态
+
+1. `KEY0-->LED0`,  `KEY1-->LED1`, `KEYUP->蜂鸣器`,  三个键盘全部由外部中断触发
+2. STM32CubeMX中需要在`NVIC`中开启这几个外部中断,并配置优先级,这里设置抢占优先级为1。 (设为0可能和内部中断冲突)
 
 
-### 开发板原理图
-1. `resource`目录下
+## 开发板原理图
+1. 位于`resource`目录下
 
-![](./resource/Elite STM32F1_V1.4_SCH.pdf)
+
+## 参考文档
+
+1. [HAL](https://simonmartin.ch/resources/stm32/dl/)

@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/robotchef/Desktop/hardware/study/stm32/stm32f103ze/uart
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/robotchef/Desktop/hardware/study/stm32/stm32f103ze/uart/cmake-build-debug

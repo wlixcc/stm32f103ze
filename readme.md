@@ -66,6 +66,46 @@
 		        HAL_GPIO_TogglePin(LED1_GPIO_Port, LED1_Pin);
 		    }
 		}
+		
+	
+5. 在STM32CubeMX中有一个`auto-reload preload`可以参考[What is the Purpose of Timer Auto-reload preload enable bit
+](https://community.st.com/s/question/0D50X00009XkYtcSAF/what-is-the-purpose-of-timer-autoreload-preload-enable-bit)。 简单来说,设置为0,如果改变arr的值会立即生效. 设置为1,则等待下一周期生效
+
+## 7.PWM输出
+> 输出PWM信号,占空比50%,频率设置为10KHZ(电机一般10k-25k)。  对应工程`PWMOutput`
+
+1. 设置Clock source
+2. 设置`Channel 1` 为`PWM Generation CH1`
+3. 设置`PSC=72-1 ARR=100-1`设置`Pulse=50` ARR的一半
+
+		/* USER CODE BEGIN 2 */
+ 	 	HAL_TIM_PWM_Start(&htim1, TIM_CHANNEL_1);
+		/* USER CODE END 2 */
+
+4. 可以在PE9口测量到PWM输出波形
+
+## 8.输入捕获
+
+#### STM32CubeMX TIM设置
+
+1. 设置捕获通道(channel),通道1设置为`Input Capture direct mode`
+2. 设置捕获极性(polarity), 这里设置为下降沿捕获`Falling Edge`.
+3. 设置映射关系(ICSelection), `Direct`
+4. 设置输入捕获分频系数(ICPrescaler).(多少次下降沿触发一次)。 `No division`,每次都触发
+5. 设置滤波器(Input Filter), `0` 不滤波
+6. GPIO设置为`Pull-up`
+7. NVIC中断有4种可以启用
+		
+		//触发事件(计数器启动、停止、初始化或者由内部/外部触发计数)
+		break interrupt  
+		//更新中断,计时器溢出,重置
+		update interrupt  enable
+		//输入捕获
+		trigger and commutation interrupt 
+		//输出比较
+		capture compare interrupt
+		
+
 
 	
 

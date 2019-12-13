@@ -1,5 +1,9 @@
 Archive member included to satisfy reference by file (symbol)
 
+/usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+                              CMakeFiles/inputCapture.elf.dir/Src/main.c.obj (__aeabi_dadd)
+/usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+                              CMakeFiles/inputCapture.elf.dir/Src/main.c.obj (__aeabi_dmul)
 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
                               CMakeFiles/inputCapture.elf.dir/Src/syscalls.c.obj (__errno)
 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-exit.o)
@@ -265,8 +269,6 @@ Discarded input sections
                 0x0000000000000000      0x198 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .text.HAL_GPIO_ReadPin
                 0x0000000000000000       0x2e CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
- .text.HAL_GPIO_TogglePin
-                0x0000000000000000       0x30 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .text.HAL_GPIO_LockPin
                 0x0000000000000000       0x4e CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
  .text          0x0000000000000000        0x0 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio_ex.c.obj
@@ -382,8 +384,6 @@ Discarded input sections
  .text          0x0000000000000000        0x0 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .data          0x0000000000000000        0x0 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .text.HAL_TIM_Base_Init
-                0x0000000000000000       0x56 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_Base_DeInit
                 0x0000000000000000       0x60 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_Base_MspInit
@@ -394,8 +394,6 @@ Discarded input sections
                 0x0000000000000000       0x46 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_Base_Stop
                 0x0000000000000000       0x54 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .text.HAL_TIM_Base_Start_IT
-                0x0000000000000000       0x46 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_Base_Stop_IT
                 0x0000000000000000       0x54 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_Base_Start_DMA
@@ -444,8 +442,6 @@ Discarded input sections
                 0x0000000000000000      0x164 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_IC_DeInit
                 0x0000000000000000       0x60 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .text.HAL_TIM_IC_MspInit
-                0x0000000000000000       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_IC_MspDeInit
                 0x0000000000000000       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_IC_Start
@@ -512,8 +508,6 @@ Discarded input sections
                 0x0000000000000000       0x4c CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_ConfigOCrefClear
                 0x0000000000000000      0x188 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .text.HAL_TIM_ConfigClockSource
-                0x0000000000000000      0x16e CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_ConfigTI1Input
                 0x0000000000000000       0x36 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_SlaveConfigSynchro
@@ -522,7 +516,11 @@ Discarded input sections
                 0x0000000000000000       0x84 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_ReadCapturedValue
                 0x0000000000000000       0x88 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_PeriodElapsedCallback
+                0x0000000000000000       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_PeriodElapsedHalfCpltCallback
+                0x0000000000000000       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.HAL_TIM_IC_CaptureCallback
                 0x0000000000000000       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.HAL_TIM_IC_CaptureHalfCpltCallback
                 0x0000000000000000       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
@@ -572,14 +570,6 @@ Discarded input sections
                 0x0000000000000000       0xa8 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text.TIM_SlaveTimer_SetConfig
                 0x0000000000000000      0x10e CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .text.TIM_TI1_ConfigInputStage
-                0x0000000000000000       0x5c CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .text.TIM_TI2_ConfigInputStage
-                0x0000000000000000       0x5e CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .text.TIM_ITRx_SetConfig
-                0x0000000000000000       0x34 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .text.TIM_ETR_SetConfig
-                0x0000000000000000       0x3e CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .text          0x0000000000000000        0x0 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
  .data          0x0000000000000000        0x0 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
@@ -752,8 +742,8 @@ Discarded input sections
  .text          0x0000000000000000        0x0 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
  .data          0x0000000000000000        0x0 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
- .text.HAL_TIM_IC_MspDeInit
-                0x0000000000000000       0x48 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .text.HAL_TIM_Base_MspDeInit
+                0x0000000000000000       0x3c CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
  .text.HAL_UART_MspDeInit
                 0x0000000000000000       0x44 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
  .text          0x0000000000000000        0x0 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
@@ -805,6 +795,10 @@ Discarded input sections
  .text          0x0000000000000000       0x14 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
  .data          0x0000000000000000        0x0 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
  .bss           0x0000000000000000        0x0 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
  .text          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
  .data          0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
  .bss           0x0000000000000000        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-errno.o)
@@ -906,374 +900,413 @@ LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-
                 0x0000000008000000                g_pfnVectors
                 0x00000000080001e4                . = ALIGN (0x4)
 
-.text           0x00000000080001e4     0x26ec
-                0x00000000080001e4                . = ALIGN (0x4)
+.text           0x00000000080001e8     0x32d0
+                0x00000000080001e8                . = ALIGN (0x4)
  *(.text)
- .text          0x00000000080001e4       0x40 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x00000000080001e8       0x40 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+ .text          0x0000000008000228      0x378 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+                0x0000000008000228                __aeabi_drsub
+                0x0000000008000230                __subdf3
+                0x0000000008000230                __aeabi_dsub
+                0x0000000008000234                __aeabi_dadd
+                0x0000000008000234                __adddf3
+                0x00000000080004ac                __aeabi_ui2d
+                0x00000000080004ac                __floatunsidf
+                0x00000000080004cc                __floatsidf
+                0x00000000080004cc                __aeabi_i2d
+                0x00000000080004f0                __extendsfdf2
+                0x00000000080004f0                __aeabi_f2d
+                0x0000000008000534                __aeabi_ul2d
+                0x0000000008000534                __floatundidf
+                0x0000000008000544                __aeabi_l2d
+                0x0000000008000544                __floatdidf
+ .text          0x00000000080005a0      0x424 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+                0x00000000080005a0                __aeabi_dmul
+                0x00000000080005a0                __muldf3
+                0x00000000080007f4                __aeabi_ddiv
+                0x00000000080007f4                __divdf3
  *(.text*)
  .text.HAL_Init
-                0x0000000008000224       0x2c CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x0000000008000224                HAL_Init
+                0x00000000080009c4       0x2c CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000000080009c4                HAL_Init
  .text.HAL_InitTick
-                0x0000000008000250       0x60 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x0000000008000250                HAL_InitTick
+                0x00000000080009f0       0x60 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x00000000080009f0                HAL_InitTick
  .text.HAL_IncTick
-                0x00000000080002b0       0x24 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x00000000080002b0                HAL_IncTick
+                0x0000000008000a50       0x24 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000008000a50                HAL_IncTick
  .text.HAL_GetTick
-                0x00000000080002d4       0x14 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
-                0x00000000080002d4                HAL_GetTick
+                0x0000000008000a74       0x14 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
+                0x0000000008000a74                HAL_GetTick
  .text.__NVIC_SetPriorityGrouping
-                0x00000000080002e8       0x48 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008000a88       0x48 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.__NVIC_GetPriorityGrouping
-                0x0000000008000330       0x1c CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008000ad0       0x1c CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.__NVIC_EnableIRQ
-                0x000000000800034c       0x38 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008000aec       0x38 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.__NVIC_SetPriority
-                0x0000000008000384       0x54 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008000b24       0x54 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.NVIC_EncodePriority
-                0x00000000080003d8       0x64 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008000b78       0x64 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.SysTick_Config
-                0x000000000800043c       0x44 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008000bdc       0x44 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .text.HAL_NVIC_SetPriorityGrouping
-                0x0000000008000480       0x16 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x0000000008000480                HAL_NVIC_SetPriorityGrouping
+                0x0000000008000c20       0x16 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008000c20                HAL_NVIC_SetPriorityGrouping
  .text.HAL_NVIC_SetPriority
-                0x0000000008000496       0x38 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x0000000008000496                HAL_NVIC_SetPriority
+                0x0000000008000c36       0x38 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008000c36                HAL_NVIC_SetPriority
  .text.HAL_NVIC_EnableIRQ
-                0x00000000080004ce       0x1c CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x00000000080004ce                HAL_NVIC_EnableIRQ
+                0x0000000008000c6e       0x1c CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008000c6e                HAL_NVIC_EnableIRQ
  .text.HAL_SYSTICK_Config
-                0x00000000080004ea       0x18 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
-                0x00000000080004ea                HAL_SYSTICK_Config
- *fill*         0x0000000008000502        0x2 
+                0x0000000008000c8a       0x18 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
+                0x0000000008000c8a                HAL_SYSTICK_Config
+ *fill*         0x0000000008000ca2        0x2 
  .text.HAL_DMA_Abort_IT
-                0x0000000008000504      0x210 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
-                0x0000000008000504                HAL_DMA_Abort_IT
+                0x0000000008000ca4      0x210 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
+                0x0000000008000ca4                HAL_DMA_Abort_IT
  .text.HAL_GPIO_Init
-                0x0000000008000714      0x2d4 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x0000000008000714                HAL_GPIO_Init
+                0x0000000008000eb4      0x2d4 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000008000eb4                HAL_GPIO_Init
  .text.HAL_GPIO_WritePin
-                0x00000000080009e8       0x30 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x00000000080009e8                HAL_GPIO_WritePin
+                0x0000000008001188       0x30 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000008001188                HAL_GPIO_WritePin
+ .text.HAL_GPIO_TogglePin
+                0x00000000080011b8       0x30 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x00000000080011b8                HAL_GPIO_TogglePin
  .text.HAL_GPIO_EXTI_IRQHandler
-                0x0000000008000a18       0x30 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x0000000008000a18                HAL_GPIO_EXTI_IRQHandler
+                0x00000000080011e8       0x30 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x00000000080011e8                HAL_GPIO_EXTI_IRQHandler
  .text.HAL_GPIO_EXTI_Callback
-                0x0000000008000a48       0x14 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
-                0x0000000008000a48                HAL_GPIO_EXTI_Callback
+                0x0000000008001218       0x14 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_gpio.c.obj
+                0x0000000008001218                HAL_GPIO_EXTI_Callback
  .text.HAL_RCC_OscConfig
-                0x0000000008000a5c      0x500 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x0000000008000a5c                HAL_RCC_OscConfig
+                0x000000000800122c      0x500 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x000000000800122c                HAL_RCC_OscConfig
  .text.HAL_RCC_ClockConfig
-                0x0000000008000f5c      0x1d4 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x0000000008000f5c                HAL_RCC_ClockConfig
+                0x000000000800172c      0x1d4 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x000000000800172c                HAL_RCC_ClockConfig
  .text.HAL_RCC_GetSysClockFreq
-                0x0000000008001130       0xc4 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x0000000008001130                HAL_RCC_GetSysClockFreq
+                0x0000000008001900       0xc4 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008001900                HAL_RCC_GetSysClockFreq
  .text.HAL_RCC_GetHCLKFreq
-                0x00000000080011f4       0x14 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x00000000080011f4                HAL_RCC_GetHCLKFreq
+                0x00000000080019c4       0x14 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x00000000080019c4                HAL_RCC_GetHCLKFreq
  .text.HAL_RCC_GetPCLK1Freq
-                0x0000000008001208       0x28 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x0000000008001208                HAL_RCC_GetPCLK1Freq
+                0x00000000080019d8       0x28 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x00000000080019d8                HAL_RCC_GetPCLK1Freq
  .text.HAL_RCC_GetPCLK2Freq
-                0x0000000008001230       0x28 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
-                0x0000000008001230                HAL_RCC_GetPCLK2Freq
+                0x0000000008001a00       0x28 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008001a00                HAL_RCC_GetPCLK2Freq
  .text.RCC_Delay
-                0x0000000008001258       0x3c CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+                0x0000000008001a28       0x3c CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .text.HAL_TIM_Base_Init
+                0x0000000008001a64       0x56 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008001a64                HAL_TIM_Base_Init
+ .text.HAL_TIM_Base_Start_IT
+                0x0000000008001aba       0x46 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008001aba                HAL_TIM_Base_Start_IT
  .text.HAL_TIM_IC_Init
-                0x0000000008001294       0x56 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x0000000008001294                HAL_TIM_IC_Init
- *fill*         0x00000000080012ea        0x2 
- .text.HAL_TIM_IC_Start_IT
-                0x00000000080012ec       0xd0 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x00000000080012ec                HAL_TIM_IC_Start_IT
- .text.HAL_TIM_IRQHandler
-                0x00000000080013bc      0x210 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x00000000080013bc                HAL_TIM_IRQHandler
- .text.HAL_TIM_IC_ConfigChannel
-                0x00000000080015cc      0x138 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x00000000080015cc                HAL_TIM_IC_ConfigChannel
- .text.HAL_TIM_PeriodElapsedCallback
-                0x0000000008001704       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x0000000008001704                HAL_TIM_PeriodElapsedCallback
- .text.HAL_TIM_OC_DelayElapsedCallback
-                0x0000000008001716       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x0000000008001716                HAL_TIM_OC_DelayElapsedCallback
- .text.HAL_TIM_IC_CaptureCallback
-                0x0000000008001728       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x0000000008001728                HAL_TIM_IC_CaptureCallback
- .text.HAL_TIM_PWM_PulseFinishedCallback
-                0x000000000800173a       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x000000000800173a                HAL_TIM_PWM_PulseFinishedCallback
- .text.HAL_TIM_TriggerCallback
-                0x000000000800174c       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x000000000800174c                HAL_TIM_TriggerCallback
- *fill*         0x000000000800175e        0x2 
- .text.TIM_Base_SetConfig
-                0x0000000008001760       0xf4 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x0000000008001760                TIM_Base_SetConfig
- .text.TIM_TI1_SetConfig
-                0x0000000008001854       0xcc CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x0000000008001854                TIM_TI1_SetConfig
- .text.TIM_TI2_SetConfig
-                0x0000000008001920       0x78 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .text.TIM_TI3_SetConfig
-                0x0000000008001998       0x76 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .text.TIM_TI4_SetConfig
-                0x0000000008001a0e       0x78 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
- .text.TIM_CCxChannelCmd
-                0x0000000008001a86       0x48 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
-                0x0000000008001a86                TIM_CCxChannelCmd
- .text.HAL_TIMEx_MasterConfigSynchronization
-                0x0000000008001ace       0x88 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
-                0x0000000008001ace                HAL_TIMEx_MasterConfigSynchronization
- .text.HAL_TIMEx_CommutCallback
-                0x0000000008001b56       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
-                0x0000000008001b56                HAL_TIMEx_CommutCallback
- .text.HAL_TIMEx_BreakCallback
-                0x0000000008001b68       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
-                0x0000000008001b68                HAL_TIMEx_BreakCallback
- .text.HAL_UART_Init
-                0x0000000008001b7a       0x9a CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                0x0000000008001b7a                HAL_UART_Init
- .text.HAL_UART_IRQHandler
-                0x0000000008001c14      0x1f8 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                0x0000000008001c14                HAL_UART_IRQHandler
- .text.HAL_UART_TxCpltCallback
-                0x0000000008001e0c       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                0x0000000008001e0c                HAL_UART_TxCpltCallback
- .text.HAL_UART_RxCpltCallback
-                0x0000000008001e1e       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                0x0000000008001e1e                HAL_UART_RxCpltCallback
- .text.HAL_UART_ErrorCallback
-                0x0000000008001e30       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
-                0x0000000008001e30                HAL_UART_ErrorCallback
- .text.UART_EndRxTransfer
-                0x0000000008001e42       0x3a CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .text.UART_DMAAbortOnError
-                0x0000000008001e7c       0x28 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .text.UART_Transmit_IT
-                0x0000000008001ea4       0xaa CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .text.UART_EndTransmit_IT
-                0x0000000008001f4e       0x30 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .text.UART_Receive_IT
-                0x0000000008001f7e      0x102 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .text.UART_SetConfig
-                0x0000000008002080      0x1b4 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .text.main     0x0000000008002234       0x28 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
-                0x0000000008002234                main
- .text.SystemClock_Config
-                0x000000000800225c       0x8a CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
-                0x000000000800225c                SystemClock_Config
- *fill*         0x00000000080022e6        0x2 
- .text.MX_TIM1_Init
-                0x00000000080022e8       0xac CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
- .text.MX_USART1_UART_Init
-                0x0000000008002394       0x54 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
- .text.MX_GPIO_Init
-                0x00000000080023e8      0x128 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
- .text.Error_Handler
-                0x0000000008002510        0xc CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
-                0x0000000008002510                Error_Handler
- .text.HAL_MspInit
-                0x000000000800251c       0x64 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
-                0x000000000800251c                HAL_MspInit
+                0x0000000008001b00       0x56 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008001b00                HAL_TIM_IC_Init
  .text.HAL_TIM_IC_MspInit
-                0x0000000008002580       0xc8 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
-                0x0000000008002580                HAL_TIM_IC_MspInit
+                0x0000000008001b56       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008001b56                HAL_TIM_IC_MspInit
+ .text.HAL_TIM_IC_Start_IT
+                0x0000000008001b68       0xd0 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008001b68                HAL_TIM_IC_Start_IT
+ .text.HAL_TIM_IRQHandler
+                0x0000000008001c38      0x210 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008001c38                HAL_TIM_IRQHandler
+ .text.HAL_TIM_IC_ConfigChannel
+                0x0000000008001e48      0x138 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008001e48                HAL_TIM_IC_ConfigChannel
+ .text.HAL_TIM_ConfigClockSource
+                0x0000000008001f80      0x16e CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008001f80                HAL_TIM_ConfigClockSource
+ .text.HAL_TIM_OC_DelayElapsedCallback
+                0x00000000080020ee       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x00000000080020ee                HAL_TIM_OC_DelayElapsedCallback
+ .text.HAL_TIM_PWM_PulseFinishedCallback
+                0x0000000008002100       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008002100                HAL_TIM_PWM_PulseFinishedCallback
+ .text.HAL_TIM_TriggerCallback
+                0x0000000008002112       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008002112                HAL_TIM_TriggerCallback
+ .text.TIM_Base_SetConfig
+                0x0000000008002124       0xf4 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008002124                TIM_Base_SetConfig
+ .text.TIM_TI1_SetConfig
+                0x0000000008002218       0xcc CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008002218                TIM_TI1_SetConfig
+ .text.TIM_TI1_ConfigInputStage
+                0x00000000080022e4       0x5c CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI2_SetConfig
+                0x0000000008002340       0x78 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI2_ConfigInputStage
+                0x00000000080023b8       0x5e CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI3_SetConfig
+                0x0000000008002416       0x76 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_TI4_SetConfig
+                0x000000000800248c       0x78 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_ITRx_SetConfig
+                0x0000000008002504       0x34 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+ .text.TIM_ETR_SetConfig
+                0x0000000008002538       0x3e CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008002538                TIM_ETR_SetConfig
+ .text.TIM_CCxChannelCmd
+                0x0000000008002576       0x48 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
+                0x0000000008002576                TIM_CCxChannelCmd
+ .text.HAL_TIMEx_MasterConfigSynchronization
+                0x00000000080025be       0x88 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x00000000080025be                HAL_TIMEx_MasterConfigSynchronization
+ .text.HAL_TIMEx_CommutCallback
+                0x0000000008002646       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x0000000008002646                HAL_TIMEx_CommutCallback
+ .text.HAL_TIMEx_BreakCallback
+                0x0000000008002658       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
+                0x0000000008002658                HAL_TIMEx_BreakCallback
+ .text.HAL_UART_Init
+                0x000000000800266a       0x9a CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x000000000800266a                HAL_UART_Init
+ .text.HAL_UART_IRQHandler
+                0x0000000008002704      0x1f8 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x0000000008002704                HAL_UART_IRQHandler
+ .text.HAL_UART_TxCpltCallback
+                0x00000000080028fc       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x00000000080028fc                HAL_UART_TxCpltCallback
+ .text.HAL_UART_RxCpltCallback
+                0x000000000800290e       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x000000000800290e                HAL_UART_RxCpltCallback
+ .text.HAL_UART_ErrorCallback
+                0x0000000008002920       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+                0x0000000008002920                HAL_UART_ErrorCallback
+ .text.UART_EndRxTransfer
+                0x0000000008002932       0x3a CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_DMAAbortOnError
+                0x000000000800296c       0x28 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_Transmit_IT
+                0x0000000008002994       0xaa CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_EndTransmit_IT
+                0x0000000008002a3e       0x30 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_Receive_IT
+                0x0000000008002a6e      0x102 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.UART_SetConfig
+                0x0000000008002b70      0x1b4 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
+ .text.main     0x0000000008002d24       0x38 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+                0x0000000008002d24                main
+ .text.SystemClock_Config
+                0x0000000008002d5c       0x8a CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+                0x0000000008002d5c                SystemClock_Config
+ *fill*         0x0000000008002de6        0x2 
+ .text.MX_TIM2_Init
+                0x0000000008002de8       0xe0 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+ .text.MX_USART1_UART_Init
+                0x0000000008002ec8       0x54 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+ .text.MX_GPIO_Init
+                0x0000000008002f1c      0x108 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+ *fill*         0x0000000008003024        0x4 
+ .text.HAL_TIM_IC_CaptureCallback
+                0x0000000008003028      0x100 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+                0x0000000008003028                HAL_TIM_IC_CaptureCallback
+ .text.HAL_TIM_PeriodElapsedCallback
+                0x0000000008003128       0x34 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+                0x0000000008003128                HAL_TIM_PeriodElapsedCallback
+ .text.Error_Handler
+                0x000000000800315c        0xc CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+                0x000000000800315c                Error_Handler
+ .text.HAL_MspInit
+                0x0000000008003168       0x64 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+                0x0000000008003168                HAL_MspInit
+ .text.HAL_TIM_Base_MspInit
+                0x00000000080031cc       0x88 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+                0x00000000080031cc                HAL_TIM_Base_MspInit
  .text.HAL_UART_MspInit
-                0x0000000008002648       0xa8 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
-                0x0000000008002648                HAL_UART_MspInit
+                0x0000000008003254       0xa8 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+                0x0000000008003254                HAL_UART_MspInit
  .text.NMI_Handler
-                0x00000000080026f0        0xc CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x00000000080026f0                NMI_Handler
+                0x00000000080032fc        0xc CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                0x00000000080032fc                NMI_Handler
  .text.HardFault_Handler
-                0x00000000080026fc        0x6 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x00000000080026fc                HardFault_Handler
+                0x0000000008003308        0x6 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000008003308                HardFault_Handler
  .text.MemManage_Handler
-                0x0000000008002702        0x6 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x0000000008002702                MemManage_Handler
+                0x000000000800330e        0x6 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                0x000000000800330e                MemManage_Handler
  .text.BusFault_Handler
-                0x0000000008002708        0x6 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x0000000008002708                BusFault_Handler
+                0x0000000008003314        0x6 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000008003314                BusFault_Handler
  .text.UsageFault_Handler
-                0x000000000800270e        0x6 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x000000000800270e                UsageFault_Handler
+                0x000000000800331a        0x6 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                0x000000000800331a                UsageFault_Handler
  .text.SVC_Handler
-                0x0000000008002714        0xc CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x0000000008002714                SVC_Handler
+                0x0000000008003320        0xc CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000008003320                SVC_Handler
  .text.DebugMon_Handler
-                0x0000000008002720        0xc CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x0000000008002720                DebugMon_Handler
+                0x000000000800332c        0xc CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                0x000000000800332c                DebugMon_Handler
  .text.PendSV_Handler
-                0x000000000800272c        0xc CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x000000000800272c                PendSV_Handler
+                0x0000000008003338        0xc CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000008003338                PendSV_Handler
  .text.SysTick_Handler
-                0x0000000008002738        0xc CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x0000000008002738                SysTick_Handler
- .text.EXTI0_IRQHandler
-                0x0000000008002744        0xe CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x0000000008002744                EXTI0_IRQHandler
+                0x0000000008003344        0xc CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000008003344                SysTick_Handler
  .text.EXTI3_IRQHandler
-                0x0000000008002752        0xe CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x0000000008002752                EXTI3_IRQHandler
+                0x0000000008003350        0xe CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000008003350                EXTI3_IRQHandler
  .text.EXTI4_IRQHandler
-                0x0000000008002760        0xe CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x0000000008002760                EXTI4_IRQHandler
- *fill*         0x000000000800276e        0x2 
- .text.TIM1_UP_IRQHandler
-                0x0000000008002770       0x14 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x0000000008002770                TIM1_UP_IRQHandler
- .text.TIM1_TRG_COM_IRQHandler
-                0x0000000008002784       0x14 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x0000000008002784                TIM1_TRG_COM_IRQHandler
+                0x000000000800335e        0xe CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                0x000000000800335e                EXTI4_IRQHandler
+ .text.TIM2_IRQHandler
+                0x000000000800336c       0x14 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                0x000000000800336c                TIM2_IRQHandler
  .text.USART1_IRQHandler
-                0x0000000008002798       0x14 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                0x0000000008002798                USART1_IRQHandler
+                0x0000000008003380       0x14 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000008003380                USART1_IRQHandler
  .text.SystemInit
-                0x00000000080027ac       0x68 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
-                0x00000000080027ac                SystemInit
+                0x0000000008003394       0x68 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
+                0x0000000008003394                SystemInit
  .text.Reset_Handler
-                0x0000000008002814       0x48 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
-                0x0000000008002814                Reset_Handler
+                0x00000000080033fc       0x48 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
+                0x00000000080033fc                Reset_Handler
  .text.Default_Handler
-                0x000000000800285c        0x2 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
-                0x000000000800285c                DMA2_Channel3_IRQHandler
-                0x000000000800285c                EXTI2_IRQHandler
-                0x000000000800285c                TIM8_TRG_COM_IRQHandler
-                0x000000000800285c                TIM8_CC_IRQHandler
-                0x000000000800285c                TIM1_CC_IRQHandler
-                0x000000000800285c                TIM6_IRQHandler
-                0x000000000800285c                PVD_IRQHandler
-                0x000000000800285c                SDIO_IRQHandler
-                0x000000000800285c                I2C2_EV_IRQHandler
-                0x000000000800285c                ADC1_2_IRQHandler
-                0x000000000800285c                SPI1_IRQHandler
-                0x000000000800285c                TAMPER_IRQHandler
-                0x000000000800285c                TIM8_UP_IRQHandler
-                0x000000000800285c                DMA2_Channel2_IRQHandler
-                0x000000000800285c                DMA1_Channel4_IRQHandler
-                0x000000000800285c                USART3_IRQHandler
-                0x000000000800285c                RTC_IRQHandler
-                0x000000000800285c                DMA1_Channel7_IRQHandler
-                0x000000000800285c                CAN1_RX1_IRQHandler
-                0x000000000800285c                UART5_IRQHandler
-                0x000000000800285c                ADC3_IRQHandler
-                0x000000000800285c                TIM4_IRQHandler
-                0x000000000800285c                DMA2_Channel1_IRQHandler
-                0x000000000800285c                I2C1_EV_IRQHandler
-                0x000000000800285c                DMA1_Channel6_IRQHandler
-                0x000000000800285c                UART4_IRQHandler
-                0x000000000800285c                TIM3_IRQHandler
-                0x000000000800285c                RCC_IRQHandler
-                0x000000000800285c                DMA1_Channel1_IRQHandler
-                0x000000000800285c                Default_Handler
-                0x000000000800285c                EXTI15_10_IRQHandler
-                0x000000000800285c                TIM7_IRQHandler
-                0x000000000800285c                TIM5_IRQHandler
-                0x000000000800285c                EXTI9_5_IRQHandler
-                0x000000000800285c                SPI2_IRQHandler
-                0x000000000800285c                DMA1_Channel5_IRQHandler
-                0x000000000800285c                USB_LP_CAN1_RX0_IRQHandler
-                0x000000000800285c                USB_HP_CAN1_TX_IRQHandler
-                0x000000000800285c                DMA1_Channel3_IRQHandler
-                0x000000000800285c                FSMC_IRQHandler
-                0x000000000800285c                WWDG_IRQHandler
-                0x000000000800285c                TIM2_IRQHandler
-                0x000000000800285c                TIM1_BRK_IRQHandler
-                0x000000000800285c                EXTI1_IRQHandler
-                0x000000000800285c                DMA2_Channel4_5_IRQHandler
-                0x000000000800285c                USART2_IRQHandler
-                0x000000000800285c                I2C2_ER_IRQHandler
-                0x000000000800285c                DMA1_Channel2_IRQHandler
-                0x000000000800285c                TIM8_BRK_IRQHandler
-                0x000000000800285c                CAN1_SCE_IRQHandler
-                0x000000000800285c                FLASH_IRQHandler
-                0x000000000800285c                SPI3_IRQHandler
-                0x000000000800285c                I2C1_ER_IRQHandler
-                0x000000000800285c                USBWakeUp_IRQHandler
-                0x000000000800285c                RTC_Alarm_IRQHandler
- *fill*         0x000000000800285e        0x2 
+                0x0000000008003444        0x2 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
+                0x0000000008003444                DMA2_Channel3_IRQHandler
+                0x0000000008003444                EXTI2_IRQHandler
+                0x0000000008003444                TIM8_TRG_COM_IRQHandler
+                0x0000000008003444                TIM8_CC_IRQHandler
+                0x0000000008003444                TIM1_CC_IRQHandler
+                0x0000000008003444                TIM6_IRQHandler
+                0x0000000008003444                PVD_IRQHandler
+                0x0000000008003444                SDIO_IRQHandler
+                0x0000000008003444                EXTI0_IRQHandler
+                0x0000000008003444                I2C2_EV_IRQHandler
+                0x0000000008003444                ADC1_2_IRQHandler
+                0x0000000008003444                SPI1_IRQHandler
+                0x0000000008003444                TAMPER_IRQHandler
+                0x0000000008003444                TIM8_UP_IRQHandler
+                0x0000000008003444                DMA2_Channel2_IRQHandler
+                0x0000000008003444                DMA1_Channel4_IRQHandler
+                0x0000000008003444                USART3_IRQHandler
+                0x0000000008003444                RTC_IRQHandler
+                0x0000000008003444                DMA1_Channel7_IRQHandler
+                0x0000000008003444                CAN1_RX1_IRQHandler
+                0x0000000008003444                UART5_IRQHandler
+                0x0000000008003444                ADC3_IRQHandler
+                0x0000000008003444                TIM4_IRQHandler
+                0x0000000008003444                DMA2_Channel1_IRQHandler
+                0x0000000008003444                I2C1_EV_IRQHandler
+                0x0000000008003444                DMA1_Channel6_IRQHandler
+                0x0000000008003444                UART4_IRQHandler
+                0x0000000008003444                TIM3_IRQHandler
+                0x0000000008003444                RCC_IRQHandler
+                0x0000000008003444                TIM1_TRG_COM_IRQHandler
+                0x0000000008003444                DMA1_Channel1_IRQHandler
+                0x0000000008003444                Default_Handler
+                0x0000000008003444                EXTI15_10_IRQHandler
+                0x0000000008003444                TIM7_IRQHandler
+                0x0000000008003444                TIM5_IRQHandler
+                0x0000000008003444                EXTI9_5_IRQHandler
+                0x0000000008003444                SPI2_IRQHandler
+                0x0000000008003444                DMA1_Channel5_IRQHandler
+                0x0000000008003444                USB_LP_CAN1_RX0_IRQHandler
+                0x0000000008003444                USB_HP_CAN1_TX_IRQHandler
+                0x0000000008003444                DMA1_Channel3_IRQHandler
+                0x0000000008003444                FSMC_IRQHandler
+                0x0000000008003444                TIM1_UP_IRQHandler
+                0x0000000008003444                WWDG_IRQHandler
+                0x0000000008003444                TIM1_BRK_IRQHandler
+                0x0000000008003444                EXTI1_IRQHandler
+                0x0000000008003444                DMA2_Channel4_5_IRQHandler
+                0x0000000008003444                USART2_IRQHandler
+                0x0000000008003444                I2C2_ER_IRQHandler
+                0x0000000008003444                DMA1_Channel2_IRQHandler
+                0x0000000008003444                TIM8_BRK_IRQHandler
+                0x0000000008003444                CAN1_SCE_IRQHandler
+                0x0000000008003444                FLASH_IRQHandler
+                0x0000000008003444                SPI3_IRQHandler
+                0x0000000008003444                I2C1_ER_IRQHandler
+                0x0000000008003444                USBWakeUp_IRQHandler
+                0x0000000008003444                RTC_Alarm_IRQHandler
+ *fill*         0x0000000008003446        0x2 
  .text.__libc_init_array
-                0x0000000008002860       0x48 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
-                0x0000000008002860                __libc_init_array
- .text.memset   0x00000000080028a8       0x10 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
-                0x00000000080028a8                memset
+                0x0000000008003448       0x48 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+                0x0000000008003448                __libc_init_array
+ .text.memset   0x0000000008003490       0x10 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+                0x0000000008003490                memset
  *(.glue_7)
- .glue_7        0x00000000080028b8        0x0 linker stubs
+ .glue_7        0x00000000080034a0        0x0 linker stubs
  *(.glue_7t)
- .glue_7t       0x00000000080028b8        0x0 linker stubs
+ .glue_7t       0x00000000080034a0        0x0 linker stubs
  *(.eh_frame)
- .eh_frame      0x00000000080028b8        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+ .eh_frame      0x00000000080034a0        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
  *(.init)
- .init          0x00000000080028b8        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crti.o
-                0x00000000080028b8                _init
- .init          0x00000000080028bc        0x8 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtn.o
+ .init          0x00000000080034a0        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crti.o
+                0x00000000080034a0                _init
+ .init          0x00000000080034a4        0x8 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtn.o
  *(.fini)
- .fini          0x00000000080028c4        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crti.o
-                0x00000000080028c4                _fini
- .fini          0x00000000080028c8        0x8 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtn.o
-                0x00000000080028d0                . = ALIGN (0x4)
-                0x00000000080028d0                _etext = .
+ .fini          0x00000000080034ac        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crti.o
+                0x00000000080034ac                _fini
+ .fini          0x00000000080034b0        0x8 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtn.o
+                0x00000000080034b8                . = ALIGN (0x4)
+                0x00000000080034b8                _etext = .
 
-.vfp11_veneer   0x00000000080028d0        0x0
- .vfp11_veneer  0x00000000080028d0        0x0 linker stubs
+.vfp11_veneer   0x00000000080034b8        0x0
+ .vfp11_veneer  0x00000000080034b8        0x0 linker stubs
 
-.v4_bx          0x00000000080028d0        0x0
- .v4_bx         0x00000000080028d0        0x0 linker stubs
+.v4_bx          0x00000000080034b8        0x0
+ .v4_bx         0x00000000080034b8        0x0 linker stubs
 
-.iplt           0x00000000080028d0        0x0
- .iplt          0x00000000080028d0        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+.iplt           0x00000000080034b8        0x0
+ .iplt          0x00000000080034b8        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
 
-.rodata         0x00000000080028d0       0x2c
-                0x00000000080028d0                . = ALIGN (0x4)
+.rodata         0x00000000080034b8       0x2c
+                0x00000000080034b8                . = ALIGN (0x4)
  *(.rodata)
- .rodata        0x00000000080028d0       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
+ .rodata        0x00000000080034b8       0x12 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.c.obj
  *(.rodata*)
- *fill*         0x00000000080028e2        0x2 
+ *fill*         0x00000000080034ca        0x2 
  .rodata.AHBPrescTable
-                0x00000000080028e4       0x10 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
-                0x00000000080028e4                AHBPrescTable
+                0x00000000080034cc       0x10 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
+                0x00000000080034cc                AHBPrescTable
  .rodata.APBPrescTable
-                0x00000000080028f4        0x8 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
-                0x00000000080028f4                APBPrescTable
-                0x00000000080028fc                . = ALIGN (0x4)
+                0x00000000080034dc        0x8 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
+                0x00000000080034dc                APBPrescTable
+                0x00000000080034e4                . = ALIGN (0x4)
 
-.rel.dyn        0x00000000080028fc        0x0
- .rel.iplt      0x00000000080028fc        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+.rel.dyn        0x00000000080034e4        0x0
+ .rel.iplt      0x00000000080034e4        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
 
 .ARM.extab
  *(.ARM.extab* .gnu.linkonce.armextab.*)
 
-.ARM            0x00000000080028fc        0x0
-                0x00000000080028fc                __exidx_start = .
+.ARM            0x00000000080034e4        0x0
+                0x00000000080034e4                __exidx_start = .
  *(.ARM.exidx*)
-                0x00000000080028fc                __exidx_end = .
+                0x00000000080034e4                __exidx_end = .
 
-.preinit_array  0x00000000080028fc        0x0
-                0x00000000080028fc                PROVIDE (__preinit_array_start = .)
+.preinit_array  0x00000000080034e4        0x0
+                0x00000000080034e4                PROVIDE (__preinit_array_start = .)
  *(.preinit_array*)
-                0x00000000080028fc                PROVIDE (__preinit_array_end = .)
+                0x00000000080034e4                PROVIDE (__preinit_array_end = .)
 
-.init_array     0x00000000080028fc        0x4
-                0x00000000080028fc                PROVIDE (__init_array_start = .)
+.init_array     0x00000000080034e4        0x4
+                0x00000000080034e4                PROVIDE (__init_array_start = .)
  *(SORT_BY_NAME(.init_array.*))
  *(.init_array*)
- .init_array    0x00000000080028fc        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
-                0x0000000008002900                PROVIDE (__init_array_end = .)
+ .init_array    0x00000000080034e4        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+                0x00000000080034e8                PROVIDE (__init_array_end = .)
 
-.fini_array     0x0000000008002900        0x4
+.fini_array     0x00000000080034e8        0x4
                 [!provide]                        PROVIDE (__fini_array_start = .)
  *(SORT_BY_NAME(.fini_array.*))
  *(.fini_array*)
- .fini_array    0x0000000008002900        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
+ .fini_array    0x00000000080034e8        0x4 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
                 [!provide]                        PROVIDE (__fini_array_end = .)
-                0x0000000008002904                _sidata = LOADADDR (.data)
+                0x00000000080034ec                _sidata = LOADADDR (.data)
 
-.data           0x0000000020000000        0xc load address 0x0000000008002904
+.data           0x0000000020000000        0xc load address 0x00000000080034ec
                 0x0000000020000000                . = ALIGN (0x4)
                 0x0000000020000000                _sdata = .
  *(.data)
@@ -1291,11 +1324,11 @@ LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-
                 0x000000002000000c                . = ALIGN (0x4)
                 0x000000002000000c                _edata = .
 
-.igot.plt       0x000000002000000c        0x0 load address 0x0000000008002910
+.igot.plt       0x000000002000000c        0x0 load address 0x00000000080034f8
  .igot.plt      0x000000002000000c        0x0 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtbegin.o
                 0x000000002000000c                . = ALIGN (0x4)
 
-.bss            0x000000002000000c       0xa0 load address 0x0000000008002910
+.bss            0x000000002000000c       0xac load address 0x00000000080034f8
                 0x000000002000000c                _sbss = .
                 0x000000002000000c                __bss_start__ = _sbss
  *(.bss)
@@ -1303,26 +1336,33 @@ LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-
  *(.bss*)
  .bss.uwTick    0x0000000020000028        0x4 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
                 0x0000000020000028                uwTick
- .bss.htim1     0x000000002000002c       0x40 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
-                0x000000002000002c                htim1
+ .bss.htim2     0x000000002000002c       0x40 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+                0x000000002000002c                htim2
  .bss.huart1    0x000000002000006c       0x40 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
                 0x000000002000006c                huart1
+ .bss.ic_edge   0x00000000200000ac        0x1 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+                0x00000000200000ac                ic_edge
+ *fill*         0x00000000200000ad        0x3 
+ .bss.cnt_overflow
+                0x00000000200000b0        0x4 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+                0x00000000200000b0                cnt_overflow
+ .bss.cnt_val   0x00000000200000b4        0x4 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+                0x00000000200000b4                cnt_val
  *(COMMON)
-                0x00000000200000ac                . = ALIGN (0x4)
-                0x00000000200000ac                _ebss = .
-                0x00000000200000ac                __bss_end__ = _ebss
+                0x00000000200000b8                . = ALIGN (0x4)
+                0x00000000200000b8                _ebss = .
+                0x00000000200000b8                __bss_end__ = _ebss
 
 ._user_heap_stack
-                0x00000000200000ac      0x604 load address 0x0000000008002910
-                0x00000000200000b0                . = ALIGN (0x8)
- *fill*         0x00000000200000ac        0x4 
-                0x00000000200000b0                PROVIDE (end = .)
+                0x00000000200000b8      0x600 load address 0x00000000080034f8
+                0x00000000200000b8                . = ALIGN (0x8)
+                0x00000000200000b8                PROVIDE (end = .)
                 [!provide]                        PROVIDE (_end = .)
-                0x00000000200002b0                . = (. + _Min_Heap_Size)
- *fill*         0x00000000200000b0      0x200 
-                0x00000000200006b0                . = (. + _Min_Stack_Size)
- *fill*         0x00000000200002b0      0x400 
-                0x00000000200006b0                . = ALIGN (0x8)
+                0x00000000200002b8                . = (. + _Min_Heap_Size)
+ *fill*         0x00000000200000b8      0x200 
+                0x00000000200006b8                . = (. + _Min_Stack_Size)
+ *fill*         0x00000000200002b8      0x400 
+                0x00000000200006b8                . = ALIGN (0x8)
 
 /DISCARD/
  libc.a(*)
@@ -1363,14 +1403,18 @@ LOAD /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-
  .ARM.attributes
                 0x0000000000000266       0x21 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
  .ARM.attributes
-                0x0000000000000287       0x2d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+                0x0000000000000287       0x1d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
  .ARM.attributes
-                0x00000000000002b4       0x2d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+                0x00000000000002a4       0x1d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
  .ARM.attributes
-                0x00000000000002e1       0x1d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtn.o
+                0x00000000000002c1       0x2d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000000002ee       0x2d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000031b       0x1d /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/crtn.o
 OUTPUT(inputCapture.elf elf32-littlearm)
 
-.debug_info     0x0000000000000000     0xa0b2
+.debug_info     0x0000000000000000     0xa1a5
  .debug_info    0x0000000000000000      0x7ad CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .debug_info    0x00000000000007ad      0xc2b CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .debug_info    0x00000000000013d8      0x807 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
@@ -1379,13 +1423,13 @@ OUTPUT(inputCapture.elf elf32-littlearm)
  .debug_info    0x0000000000002b30     0x2669 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .debug_info    0x0000000000005199     0x11fb CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
  .debug_info    0x0000000000006394     0x12db CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_info    0x000000000000766f      0xe8f CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
- .debug_info    0x00000000000084fe      0xda0 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
- .debug_info    0x000000000000929e      0x990 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
- .debug_info    0x0000000000009c2e      0x462 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
- .debug_info    0x000000000000a090       0x22 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
+ .debug_info    0x000000000000766f      0xfc5 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+ .debug_info    0x0000000000008634      0xd83 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_info    0x00000000000093b7      0x96a CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_info    0x0000000000009d21      0x462 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_info    0x000000000000a183       0x22 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
 
-.debug_abbrev   0x0000000000000000     0x195c
+.debug_abbrev   0x0000000000000000     0x19af
  .debug_abbrev  0x0000000000000000      0x1fd CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .debug_abbrev  0x00000000000001fd      0x310 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .debug_abbrev  0x000000000000050d      0x225 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
@@ -1394,11 +1438,11 @@ OUTPUT(inputCapture.elf elf32-littlearm)
  .debug_abbrev  0x0000000000000b87      0x25b CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .debug_abbrev  0x0000000000000de2      0x249 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
  .debug_abbrev  0x000000000000102b      0x26d CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_abbrev  0x0000000000001298      0x215 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
- .debug_abbrev  0x00000000000014ad      0x1c5 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
- .debug_abbrev  0x0000000000001672      0x18d CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
- .debug_abbrev  0x00000000000017ff      0x14b CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
- .debug_abbrev  0x000000000000194a       0x12 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
+ .debug_abbrev  0x0000000000001298      0x282 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+ .debug_abbrev  0x000000000000151a      0x1c5 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_abbrev  0x00000000000016df      0x173 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_abbrev  0x0000000000001852      0x14b CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_abbrev  0x000000000000199d       0x12 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
 
 .debug_aranges  0x0000000000000000      0xb78
  .debug_aranges
@@ -1418,11 +1462,11 @@ OUTPUT(inputCapture.elf elf32-littlearm)
  .debug_aranges
                 0x0000000000000840      0x1d0 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
  .debug_aranges
-                0x0000000000000a10       0x48 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+                0x0000000000000a10       0x58 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
  .debug_aranges
-                0x0000000000000a58       0x40 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+                0x0000000000000a68       0x40 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
  .debug_aranges
-                0x0000000000000a98       0x90 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                0x0000000000000aa8       0x80 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
  .debug_aranges
                 0x0000000000000b28       0x28 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
  .debug_aranges
@@ -1437,13 +1481,13 @@ OUTPUT(inputCapture.elf elf32-littlearm)
  .debug_ranges  0x00000000000002f8      0x398 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .debug_ranges  0x0000000000000690      0x140 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
  .debug_ranges  0x00000000000007d0      0x1c0 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_ranges  0x0000000000000990       0x38 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
- .debug_ranges  0x00000000000009c8       0x30 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
- .debug_ranges  0x00000000000009f8       0x80 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_ranges  0x0000000000000990       0x48 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+ .debug_ranges  0x00000000000009d8       0x30 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_ranges  0x0000000000000a08       0x70 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
  .debug_ranges  0x0000000000000a78       0x18 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
  .debug_ranges  0x0000000000000a90       0x20 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
 
-.debug_line     0x0000000000000000     0x8653
+.debug_line     0x0000000000000000     0x86a4
  .debug_line    0x0000000000000000      0x5aa CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .debug_line    0x00000000000005aa      0x784 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .debug_line    0x0000000000000d2e      0xf00 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
@@ -1452,13 +1496,13 @@ OUTPUT(inputCapture.elf elf32-littlearm)
  .debug_line    0x0000000000002cef     0x2634 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .debug_line    0x0000000000005323      0xdd4 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
  .debug_line    0x00000000000060f7     0x13d2 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_line    0x00000000000074c9      0x4c6 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
- .debug_line    0x000000000000798f      0x3fa CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
- .debug_line    0x0000000000007d89      0x476 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
- .debug_line    0x00000000000081ff      0x393 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
- .debug_line    0x0000000000008592       0xc1 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
+ .debug_line    0x00000000000074c9      0x54c CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+ .debug_line    0x0000000000007a15      0x3f5 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_line    0x0000000000007e0a      0x446 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_line    0x0000000000008250      0x393 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_line    0x00000000000085e3       0xc1 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
 
-.debug_str      0x0000000000000000     0x37ab
+.debug_str      0x0000000000000000     0x37b9
  .debug_str     0x0000000000000000      0x933 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
                                         0x997 (size before relaxing)
  .debug_str     0x0000000000000933      0x44e CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
@@ -1475,15 +1519,15 @@ OUTPUT(inputCapture.elf elf32-littlearm)
                                         0xd49 (size before relaxing)
  .debug_str     0x0000000000002cf7      0x721 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
                                         0xc6d (size before relaxing)
- .debug_str     0x0000000000003418       0xcd CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
-                                        0xef6 (size before relaxing)
- .debug_str     0x00000000000034e5       0x67 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
-                                        0xd51 (size before relaxing)
- .debug_str     0x000000000000354c      0x15a CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
-                                        0x983 (size before relaxing)
- .debug_str     0x00000000000036a6       0x91 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_str     0x0000000000003418      0x105 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+                                        0xfd0 (size before relaxing)
+ .debug_str     0x000000000000351d       0x69 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+                                        0xd57 (size before relaxing)
+ .debug_str     0x0000000000003586      0x12e CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+                                        0x957 (size before relaxing)
+ .debug_str     0x00000000000036b4       0x91 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
                                         0x3da (size before relaxing)
- .debug_str     0x0000000000003737       0x74 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
+ .debug_str     0x0000000000003745       0x74 CMakeFiles/inputCapture.elf.dir/startup/startup_stm32f103xe.s.obj
                                          0xcd (size before relaxing)
 
 .comment        0x0000000000000000       0x75
@@ -1501,7 +1545,7 @@ OUTPUT(inputCapture.elf elf32-littlearm)
  .comment       0x0000000000000075       0x76 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
  .comment       0x0000000000000075       0x76 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
 
-.debug_frame    0x0000000000000000     0x2fa8
+.debug_frame    0x0000000000000000     0x30b8
  .debug_frame   0x0000000000000000      0x334 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.c.obj
  .debug_frame   0x0000000000000334      0x428 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.c.obj
  .debug_frame   0x000000000000075c      0x20c CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_dma.c.obj
@@ -1510,9 +1554,11 @@ OUTPUT(inputCapture.elf elf32-littlearm)
  .debug_frame   0x0000000000000cd0     0x10f0 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim.c.obj
  .debug_frame   0x0000000000001dc0      0x5c0 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_tim_ex.c.obj
  .debug_frame   0x0000000000002380      0x834 CMakeFiles/inputCapture.elf.dir/Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_uart.c.obj
- .debug_frame   0x0000000000002bb4       0xd4 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
- .debug_frame   0x0000000000002c88       0xc8 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
- .debug_frame   0x0000000000002d50      0x1b4 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
- .debug_frame   0x0000000000002f04       0x58 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
- .debug_frame   0x0000000000002f5c       0x2c /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
- .debug_frame   0x0000000000002f88       0x20 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000002bb4      0x120 CMakeFiles/inputCapture.elf.dir/Src/main.c.obj
+ .debug_frame   0x0000000000002cd4       0xc8 CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_hal_msp.c.obj
+ .debug_frame   0x0000000000002d9c      0x17c CMakeFiles/inputCapture.elf.dir/Src/stm32f1xx_it.c.obj
+ .debug_frame   0x0000000000002f18       0x58 CMakeFiles/inputCapture.elf.dir/Src/system_stm32f1xx.c.obj
+ .debug_frame   0x0000000000002f70       0xac /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a(_arm_addsubdf3.o)
+ .debug_frame   0x000000000000301c       0x50 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/thumb/v7-m/nofp/libgcc.a(_arm_muldivdf3.o)
+ .debug_frame   0x000000000000306c       0x2c /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000003098       0x20 /usr/local/Cellar/arm-none-eabi-gcc/8-2018-q4-major/gcc/bin/../lib/gcc/arm-none-eabi/8.2.1/../../../../arm-none-eabi/lib/thumb/v7-m/nofp/libg_nano.a(lib_a-memset.o)

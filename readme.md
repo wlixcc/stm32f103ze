@@ -84,26 +84,57 @@
 
 4. 可以在PE9口测量到PWM输出波形
 
-## 8.输入捕获
+## 8.输入捕获 
 
-#### STM32CubeMX TIM设置
+> 计算PA0口对应按键按下的时长, PA0对应TIM2-CH1。对应开发板的按键`key-up` 
+> [参考文档](https://controllerstech.com/measure-pulse-width-using-input-capture-in-stm32/)
 
-1. 设置捕获通道(channel),通道1设置为`Input Capture direct mode`
-2. 设置捕获极性(polarity), 这里设置为下降沿捕获`Falling Edge`.
-3. 设置映射关系(ICSelection), `Direct`
-4. 设置输入捕获分频系数(ICPrescaler).(多少次下降沿触发一次)。 `No division`,每次都触发
-5. 设置滤波器(Input Filter), `0` 不滤波
-6. GPIO设置为`Pull-up`
-7. NVIC中断有4种可以启用
+#### STM32CubeMX设置
+1. 设置`Clock Source` 为`Internal Clock`
+2. 设置`Channel1` 为 `Input Capture direct mode`
+3. 设置`PSC= 36000-1` 设置`ARR =20000-1` 。 溢出需要耗时10s
+4. 设置`Polarity Selection` `Rsiing Edge`。上升沿捕获
+5. 设置滤波器(Input Filter), `15` 低通滤波
+6. NVIC中断设置中开启中断`TIM2 global interrupt`
+7. `main函数代码`
+
+		 //1.输入捕获中断
+	    HAL_TIM_IC_Start_IT(&htim2, TIM_CHANNEL_1);
+	    //2.避免开启定时器中断的时候立即回掉一次
+	    // https://electronics.stackexchange.com/questions/161967/stm32-timer-interrupt-works-immediately
+	    __HAL_TIM_CLEAR_FLAG(&htim2, TIM_SR_UIF);
+	    //3.开启定时中断
+	    HAL_TIM_Base_Start_IT(&htim2);
+
+8. `HAL_TIM_IC_CaptureCallback`中断
+
 		
-		//触发事件(计数器启动、停止、初始化或者由内部/外部触发计数)
-		break interrupt  
-		//更新中断,计时器溢出,重置
-		update interrupt  enable
-		//输入捕获
-		trigger and commutation interrupt 
-		//输出比较
-		capture compare interrupt
+		void HAL_TIM_IC_CaptureCallback(TIM_HandleTypeDef *htim) {
+	    //1.确保中断来自TIM2
+	    if (htim->Instance == TIM2) {
+	        if (ic_edge == rising) {
+	            //重置cnt
+	            __HAL_TIM_SET_COUNTER(htim, 0);
+	            //改变捕获极性,这里需要注意的是HAL库有错
+	            //https://community.st.com/s/question/0D50X0000B8j1TmSQI/package-for-stm32f1-series-180-trouble?t=1576208932817
+	            __HAL_TIM_SET_CAPTUREPOLARITY(&htim2, TIM_CHANNEL_1, TIM_INPUTCHANNELPOLARITY_FALLING);
+	            ic_edge = falling;
+	            cnt_val = 0;
+	            cnt_overflow = 0;
+	        } else {
+	            cnt_val = __HAL_TIM_GET_COUNTER(htim);
+	            // 72MHZ PSC=360000  这里time的值就是按键按下的时间
+	            double time = (0.0005 * cnt_val) + 10 * cnt_overflow;
+	            cnt_val = __HAL_TIM_GET_COUNTER(htim);
+	            __HAL_TIM_SET_CAPTUREPOLARITY(&htim2, TIM_CHANNEL_1, TIM_INPUTCHANNELPOLARITY_RISING);
+	            ic_edge = rising;
+	            cnt_val = 0;
+	            cnt_overflow = 0;
+	        }
+	    }
+	}
+
+	
 		
 
 
@@ -118,3 +149,4 @@
 1. [HAL](https://simonmartin.ch/resources/stm32/dl/)
 2. [HAL_Delay() stuck in a infinite loop](https://stackoverflow.com/questions/53899882/hal-delay-stuck-in-a-infinite-loop)
 3. [STM32CubeMX Tutorial Series: Basic Timer](https://www.waveshare.com/wiki/STM32CubeMX_Tutorial_Series:_Basic_Timer)
+4. [视频教程](https://www.youtube.com/channel/UC-CuJ6qKst9-8Z-EXjoYK3Q)
